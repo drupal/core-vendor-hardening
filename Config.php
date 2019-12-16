@@ -96,7 +96,7 @@ class Config {
     'symfony-cmf/routing' => ['Test', 'Tests'],
     'theseer/tokenizer' => ['tests'],
     'twig/twig' => ['doc', 'ext', 'test', 'tests'],
-    'wikimedia/composer-merge-plugin' => ['tests'],
+    'wikimedia/composer-merge-plugin' => ['example', 'tests'],
     'zendframework/zend-escaper' => ['doc'],
     'zendframework/zend-feed' => ['doc'],
     'zendframework/zend-stdlib' => ['doc'],
