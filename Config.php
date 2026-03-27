@@ -49,7 +49,6 @@ class Config {
     'phpunit/php-code-coverage' => ['tests'],
     'phpunit/php-timer' => ['tests'],
     'phpunit/phpunit' => ['tests'],
-    'sebastian/code-unit-reverse-lookup' => ['tests'],
     'sebastian/comparator' => ['tests'],
     'sebastian/diff' => ['tests'],
     'sebastian/environment' => ['tests'],
